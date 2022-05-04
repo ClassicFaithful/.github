@@ -6,4 +6,4 @@
 
 Faithful is also fully community-driven, free, and open source, meaning all textures are provided by volunteering contributors working in their free time. If you'd like to help out by drawing textures, or if you want something changed about a pack, you can become one too! Simply join our Discord server using [this link](https://discord.gg/KSEhCVtg4J) so you can get started at making and submitting a texture.
 
-For those that like a more detailed, modern style, check out our sister project at https://faithfulpack.net!
+For those that like a more detailed, modern style, check out our sister projects at https://faithfulpack.net!
