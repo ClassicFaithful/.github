@@ -11,5 +11,5 @@
 </p>
 
 <h4 align="center">
-  Check out our sister project <a href="https://github.com/Faithful-Resource-Pack">Faithful</a>!
+  Check out our sister project <a href="https://github.com/Faithful-Resource-Pack">Faithful</a> here!
 </h4>
