@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="justify">
-  Ever since 2010, Faithful's goal has been simple: Provide a higher-resolution version of the default Minecraft textures while staying true to the originals. Now, it is available for Bedrock Edition, many older versions of Minecraft from 1.6-1.18, in multiple resolutions, art styles, and with both Jappa and Programmer Art variants.
+  Ever since 2010, Faithful's goal has been simple: Provide a higher-resolution version of the default Minecraft textures while staying true to the originals. Now, it is available for Bedrock Edition, many older versions of Minecraft from 1.6-1.19, in multiple resolutions, art styles, and with both Jappa and Programmer Art variants.
 </h3>
 
 <p align="justify">
