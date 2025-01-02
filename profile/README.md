@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/refs/heads/main/wordmarks/outlined/flat/cf_flat_wordmark.png" align="center" height="156">
+  <a href="https://www.faithfulpack.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/refs/heads/main/wordmarks/outlined/flat/cf_flat_wordmark.png" alt="wordmark">
+  </a>
 </p>
 
 <h3 align="justify">
