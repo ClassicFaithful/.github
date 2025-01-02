@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/refs/heads/main/wordmarks/outlined/flat/cf_flat_wordmark.png" align="center" height="256">
+  <img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/refs/heads/main/wordmarks/outlined/flat/cf_flat_wordmark.png" align="center" height="156">
 </p>
 
 <h3 align="justify">
